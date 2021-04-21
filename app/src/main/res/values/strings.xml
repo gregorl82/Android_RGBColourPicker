@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Colours</string>
+    <string name="et_red_hint">Red channel</string>
+    <string name="et_green_hint">Green channel</string>
+    <string name="et_blue_hint">Blue channel</string>
+    <string name="btn_text">Get colour</string>
+    <string name="tv_header_text">Enter a value for each channel</string>
+    <string name="tv_instructions_text">Enter two hex numbers for each channel and \n press the button to see the output</string>
+    <string name="tv_colourOutput_text">Colour will appear here</string>
+    <string name="btn_reset_text">Reset</string>
+</resources>
